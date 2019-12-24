@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a5f5953-557a-4a16-ba72-040ada118cd2" name="Default Changelist" comment="">
+    <list default="true" id="7a5f5953-557a-4a16-ba72-040ada118cd2" name="Default Changelist" comment="spootboot web42 添加">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -96,7 +95,8 @@
       <workItem from="1577018461278" duration="11791000" />
       <workItem from="1577066690778" duration="15412000" />
       <workItem from="1577101254203" duration="10093000" />
-      <workItem from="1577151304350" duration="8271000" />
+      <workItem from="1577151304350" duration="8823000" />
+      <workItem from="1577173744937" duration="318000" />
     </task>
     <task id="LOCAL-00001" summary="spootboot web42 添加员工">
       <created>1577153458099</created>
@@ -112,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577153728186</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="spootboot web42 添加">
+      <created>1577172739467</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577172739467</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <option name="searchClosedTasks" value="true" />
     <servers />
   </component>
@@ -132,7 +139,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="spootboot web42 添加员工" />
     <MESSAGE value="spootboot web42 添加员工将本地工程添加到git" />
-    <option name="LAST_COMMIT_MESSAGE" value="spootboot web42 添加员工将本地工程添加到git" />
+    <MESSAGE value="spootboot web42 添加" />
+    <option name="LAST_COMMIT_MESSAGE" value="spootboot web42 添加" />
   </component>
   <component name="WindowStateProjectService">
     <state x="232" y="0" key="#Notifications" timestamp="1576989164253">
@@ -143,10 +151,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="445" y="47" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1577028310901" />
-    <state x="262" y="0" key="CommitChangelistDialog2" timestamp="1577153727137">
+    <state x="262" y="0" key="CommitChangelistDialog2" timestamp="1577175814104">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="262" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1577153727137" />
+    <state x="262" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1577175814104" />
+    <state x="92" y="92" width="1096" height="496" key="DiffContextDialog" timestamp="1577172753355">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="92" y="92" width="1096" height="496" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1577172753355" />
     <state x="420" y="97" key="FileChooserDialogImpl" timestamp="1577172205168">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -187,10 +199,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="143" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1577172161477" />
-    <state x="232" y="75" key="Vcs.Push.Dialog.v2" timestamp="1577169588620">
+    <state x="232" y="75" key="Vcs.Push.Dialog.v2" timestamp="1577173118939">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="232" y="75" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1577169588620" />
+    <state x="232" y="75" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1577173118939" />
     <state x="332" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1577151305319">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
